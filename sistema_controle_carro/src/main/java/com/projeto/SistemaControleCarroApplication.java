@@ -6,10 +6,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-public class ZupControleVeiculoApplication {
+public class SistemaControleCarroApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZupControleVeiculoApplication.class, args);
+		SpringApplication.run(SistemaControleCarroApplication.class, args);
 	}
 
 }

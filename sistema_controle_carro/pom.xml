@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>zup_controle_veiculo</artifactId>
+	<artifactId>sistema_controle_carro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zup_controle_veiculo</name>
+	<name>sistema_controle_carro</name>
 	<description>Consumir uma api externa utilizando OpenFeign</description>
 	<properties>
 		<java.version>11</java.version>
